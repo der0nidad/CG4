@@ -1,0 +1,200 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Camera.cpp
+Camera.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Camera.h
+glm/glm.hpp
+-
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Camera.h
+common.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/common.h
+LiteMath.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/LiteMath.h
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/LiteMath.h
+glm/glm.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+glm/gtx/transform.hpp
+-
+math.h
+-
+stdlib.h
+-
+memory
+-
+vector
+-
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Mesh.h
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+ShaderProgram.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ShaderProgram.h
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+vector
+-
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Model.h
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+assimp/Importer.hpp
+-
+assimp/scene.h
+-
+assimp/postprocess.h
+-
+Mesh.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Mesh.h
+ShaderProgram.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ShaderProgram.h
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+map
+-
+vector
+-
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ShaderProgram.cpp
+ShaderProgram.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ShaderProgram.h
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ShaderProgram.h
+unordered_map
+-
+common.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/common.h
+LiteMath.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/LiteMath.h
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/common.h
+GL/glew.h
+-
+iostream
+-
+fstream
+-
+string
+-
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ds.cpp
+random
+-
+iostream
+-
+matrix.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/matrix.h
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ds2.cpp
+random
+-
+iostream
+-
+matrix.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/matrix.h
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/main.cpp
+stb_image.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/stb_image.h
+ds.cpp
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ds.cpp
+common.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/common.h
+ShaderProgram.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/ShaderProgram.h
+Camera.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Camera.h
+Model.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/Model.h
+SOIL/SOIL.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+random
+-
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/matrix.h
+initializer_list
+-
+algorithm
+-
+tuple
+-
+memory
+-
+iostream
+-
+string
+-
+type_traits
+-
+matrix.hpp
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/matrix.hpp
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/matrix.hpp
+
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/stb_image.h
+stb_image.h
+/home/vorch/CMC/5 sem/mashgraf/m4/f5/c3/task4_2017_template/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
